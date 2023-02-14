@@ -1,0 +1,20 @@
+{
+  "name": "fechaenjs",
+  "version": "1.0.0",
+  "description": "vista de la fecha actual con JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agustin-alsina/fechaEnJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agustin-alsina/fechaEnJS/issues"
+  },
+  "homepage": "https://github.com/agustin-alsina/fechaEnJS#readme"
+}
